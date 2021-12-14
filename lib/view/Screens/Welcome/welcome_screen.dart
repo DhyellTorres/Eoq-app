@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_eoq/view/Screens/Logged/logged_screen.dart';
-import 'package:flutter_eoq/view/Screens/Welcome/components/body.dart';
+import 'package:flutter_eoq/view/Screens/Welcome/components/bodyWelcome.dart';
 import 'package:flutter/widgets.dart';
 
 class WelcomeScreen extends StatelessWidget {
@@ -22,7 +22,7 @@ class WelcomeScreen extends StatelessWidget {
               child: Text(snapshot.error.toString()),
             );
           } else {
-            return Body();
+            return BodyWelcome();
           }
         },
       ),
