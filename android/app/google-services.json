@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009062373755",
+    "project_id": "eoqmobile",
+    "storage_bucket": "eoqmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009062373755:android:7671d07a1cd8d0f85e35de",
+        "android_client_info": {
+          "package_name": "com.example.flutter_eoq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009062373755-p2g9aee33gta2t6a2ops7r19ca3fvovp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa05pN24FJLFAEUbP4H76ryXRoCP5Jsqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009062373755-p2g9aee33gta2t6a2ops7r19ca3fvovp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
